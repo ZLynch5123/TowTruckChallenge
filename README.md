@@ -10,6 +10,8 @@
 
 TowTruckChallenge is an interactive toy that lets you create vehicles, drive them around, and tow them. It's fun for all ages, for about two minutes.
 
+This code includes autocompleted text from the Copilot extension, because it is incredibly intrusive and I just gave up fighting it.
+
 #   Project Links
 
 The gitHub can be found at https://github.com/ZLynch5123/TowTruckChallenge
